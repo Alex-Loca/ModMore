@@ -1,6 +1,6 @@
 # ModMore
 ## Descrizione
-ModMore è una piattaforma integrata che unisce una vetrina web e un'applicazione desktop per la gestione e distribuzione di mod per videogiochi. La piattaforma si distingue per la sua universalità, accogliendo contenuti per qualsiasi videogioco, sia esso supportato ufficialmente o meno. Per i giochi supportati, ModMore offre un sistema di installazione automatizzato che semplifica drasticamente l'esperienza utente.
+ModMore è una piattaforma ùper la gestione e distribuzione di mod per videogiochi. La piattaforma si distingue per la sua universalità, accogliendo contenuti per qualsiasi videogioco, sia esso supportato ufficialmente o meno. Per i giochi supportati, ModMore offre un sistema di installazione automatizzato che semplifica drasticamente l'esperienza utente.
 
 ## Tagline
 Il tuo hub universale per le mod dei videogiochi: Scopri, Condividi, Gioca
@@ -13,12 +13,11 @@ Steam Workshop, CurseForge, Nexus Mods, Overtake
 
 ## Requisiti
 ### Requisiti funzionali
-![](https://yuml.me/11875ad2.svg)
+![](https://yuml.me/61226565.svg)
 #### Gestione Utenti
 - Registrazione nuovo utente
 - Login utente
 - Modifica profilo utente
-- Gestione limiti di upload
 - Visualizzazione profilo
 
 #### Gestione Contenuti
@@ -27,8 +26,7 @@ Steam Workshop, CurseForge, Nexus Mods, Overtake
 - Creazione post blog
 - Ricerca contenuti
 - Gestione versioni mod
-- Installazione automatica mod
-- Rating e recensioni mod
+- Installazione automatica mod per giochi supportati
 - Categorizzazione contenuti
 
 #### Amministrazione
@@ -39,7 +37,7 @@ Steam Workshop, CurseForge, Nexus Mods, Overtake
 - Monitoraggio sistema
 
 #### Community
-- Commenti su mod
+- Recensioni su mod
 - Commenti su blog post
 - Sistema di follow creator
 - Sistema di notifiche
@@ -61,7 +59,6 @@ Steam Workshop, CurseForge, Nexus Mods, Overtake
 #### Usabilità
 - Interfaccia responsive per il sito web
 - Supporto multilingua
-- Accessibilità WCAG 2.1 Level AA
 - Compatibilità cross-browser
 - Interfaccia desktop nativa per principali sistemi operativi
 
@@ -69,7 +66,6 @@ Steam Workshop, CurseForge, Nexus Mods, Overtake
 - Uptime del sistema 99.9%
 - Recupero automatico da errori di sistema
 - Sistema di logging completo
-- Gestione delle versioni dei contenuti
 
 ### Requisiti di dominio
 #### Gestione Mod
@@ -83,6 +79,7 @@ Steam Workshop, CurseForge, Nexus Mods, Overtake
 - Sistema di rilevamento giochi installati
 - Gestione conflitti tra mod
 - Supporto per diverse strutture di directory dei giochi
+- Installazioni automatiche custom-made per ogni gioco supportato
 
 #### Conformità
 - GDPR compliance
