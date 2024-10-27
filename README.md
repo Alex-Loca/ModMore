@@ -1,6 +1,6 @@
 # ModMore
 ## Descrizione
-ModMore è una piattaforma ùper la gestione e distribuzione di mod per videogiochi. La piattaforma si distingue per la sua universalità, accogliendo contenuti per qualsiasi videogioco, sia esso supportato ufficialmente o meno. Per i giochi supportati, ModMore offre un sistema di installazione automatizzato che semplifica drasticamente l'esperienza utente.
+ModMore è una piattaforma per la gestione e distribuzione di mod per videogiochi. La piattaforma si distingue per la sua universalità, accogliendo contenuti per qualsiasi videogioco, sia esso supportato ufficialmente o meno e permette ai creatori di rimanere in contatto con la loro community. Per i giochi supportati, ModMore offre un sistema di installazione automatizzato che semplifica drasticamente l'esperienza utente.
 
 ## Tagline
 Il tuo hub universale per le mod dei videogiochi: Scopri, Condividi, Gioca
@@ -50,7 +50,6 @@ Steam Workshop, CurseForge, Nexus Mods, Overtake
 - Velocità di download scalabile basata sulla connessione utente
 
 #### Sicurezza
-- Crittografia end-to-end per i download
 - Autenticazione a due fattori
 - Scansione antivirus automatica dei contenuti caricati
 - Protezione contro attacchi DDoS
