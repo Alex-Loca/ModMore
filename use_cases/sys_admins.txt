@@ -1,0 +1,7 @@
+[Amministratore]-(Gestisce utente)
+[Amministratore]-(Gestisce contenuto)
+[Amministratore]-(Aggiunge supporto ufficiale a gioco)
+(Gestisce contenuto)<(Elimina contenuto)
+(Gestisce contenuto)<(Controlla sicurezza contenuto)
+[Amministratore]-(Gestice segnalazioni)
+[Sistema]-(Segnala sicurezza contenuto)
