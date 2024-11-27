@@ -32,9 +32,10 @@ Videogiocatori PC interessati ad avere contenuti aggiuntivi per i propri giochi,
 ## Requisiti
 ### Requisiti funzionali
 #### Diagramma dei casi d'uso degli utenti
-![Diagramma UML dei casi d'uso utente](https://yuml.me/848f45dc.svg)
+![Diagramma registrazione utente](https://yuml.me/b4e4c6f3.svg)
+![Diagramma UML dei casi d'uso utente](https://yuml.me/3618d6a4.svg)
 #### Diagramma dei casi d'uso degli amministratori
-![Diagramma UML dei casi d'uso admin](https://yuml.me/a33256ed.svg)
+![Diagramma UML dei casi d'uso admin](https://yuml.me/acf62bc5.svg)
 
 #### Gestione Utenti
 - Registrazione nuovo utente

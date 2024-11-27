@@ -1,5 +1,3 @@
-[Utente]-(Registra)
-(Registra)>(Accede)
 [Utente]-(Ricerca nel catalogo)
 (Ricerca nel catalogo)<(Visualizza mod)
 (Visualizza mod)<(Scarica mod)

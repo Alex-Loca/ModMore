@@ -3,5 +3,5 @@
 [Amministratore]-(Aggiunge supporto ufficiale a gioco)
 (Gestisce contenuto)<(Elimina contenuto)
 (Gestisce contenuto)<(Controlla sicurezza contenuto)
-[Amministratore]-(Gestice segnalazioni)
+[Amministratore]-(Visualizza segnalazioni)
 [Sistema]-(Segnala sicurezza contenuto)
